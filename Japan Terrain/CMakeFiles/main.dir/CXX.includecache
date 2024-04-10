@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/redragon/C++/CG/CG TASK3/TEMPLATES/Japan Terrain/Engine/Image/Image.h
+
+/home/redragon/C++/CG/CG TASK3/TEMPLATES/Japan Terrain/main.cpp
+Engine/Image/Image.h
+/home/redragon/C++/CG/CG TASK3/TEMPLATES/Japan Terrain/Engine/Image/Image.h
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+iostream
+-
+iomanip
+-
+math.h
+/home/redragon/C++/CG/CG TASK3/TEMPLATES/Japan Terrain/math.h
+

@@ -1,0 +1,3 @@
+/home/redragon/C++/CG/CG TASK3/TEMPLATES/Japan Terrain/CMakeFiles/rebuild_cache.dir
+/home/redragon/C++/CG/CG TASK3/TEMPLATES/Japan Terrain/CMakeFiles/edit_cache.dir
+/home/redragon/C++/CG/CG TASK3/TEMPLATES/Japan Terrain/CMakeFiles/main.dir

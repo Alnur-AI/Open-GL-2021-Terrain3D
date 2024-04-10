@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Player.h
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+math.h
+-
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/main.cpp
+iostream
+-
+iomanip
+-
+Player.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Player.h
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+math.h
+-
+

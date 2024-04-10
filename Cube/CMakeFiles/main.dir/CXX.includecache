@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/redragon/C++/CG/CG TASK2/main.cpp
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+iostream
+-
+cstdlib
+-
+

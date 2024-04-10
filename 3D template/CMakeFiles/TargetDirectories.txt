@@ -1,0 +1,3 @@
+/home/redragon/C++/CG/OpenGL/3D template/CMakeFiles/rebuild_cache.dir
+/home/redragon/C++/CG/OpenGL/3D template/CMakeFiles/edit_cache.dir
+/home/redragon/C++/CG/OpenGL/3D template/CMakeFiles/main.dir

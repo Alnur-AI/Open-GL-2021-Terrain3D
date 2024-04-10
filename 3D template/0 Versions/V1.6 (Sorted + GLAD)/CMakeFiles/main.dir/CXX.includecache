@@ -1,0 +1,140 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Player.h
+Time.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Time.h
+math.h
+-
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/Draw.h
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
+Screen.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/Screen.h
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/Image.h
+stb_image.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/stb_image.h
+stb_image_write.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/stb_image_write.h
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/Screen.h
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+math.h
+-
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/stb_image.h
+stb_image.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/stb_image.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/stb_image_write.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Time.h
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/main.cpp
+main.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/main.h
+
+/home/redragon/C++/CG/OpenGL tutorial/3D template/main.h
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
+Engine/Player.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Player.h
+Engine/Rendering/Screen.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/Screen.h
+Engine/Rendering/Draw.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/Draw.h
+Engine/Rendering/Image.h
+/home/redragon/C++/CG/OpenGL tutorial/3D template/Engine/Rendering/Image.h
+
+dependencies/include/GLAD/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+dependencies/include/GLAD/glad/glad.h
+windows.h
+-
+stddef.h
+-
+KHR/khrplatform.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+
